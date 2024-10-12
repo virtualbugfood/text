@@ -525,8 +525,8 @@ a disposable camera that can still take [3-10] photos.
 an unused disposable camera.
 a fistful of change that amounts to [25-99] cents.
 a small stash of [50-300] dollars in it, mostly in [small|large] bills.
-about [1-3] used toothbrushes that are [color] in color.
-about [1-2] unused toothbrushes that are [color] in color, and a tube of [flavor] toothpaste.
+[1-3] used toothbrushes that are [color] in color.
+[1-2] unused toothbrushes that are [color] in color, and a tube of [flavor] toothpaste.
 a [used|unused] [color] colored cheap plastic hairbrush.
 a [used|unused] [color] colored cheap plastic comb.
 a cheap [color] colored sleeping bag.
@@ -586,9 +586,9 @@ a [color] colored plastic ruler.
 a box of postage stamps, it's [fullness].
 a envelop sealer.
 a letter opener.
-well... [2-3] [color] colored spiral notebooks.
-well... [2-3] [color] colored composition notebooks.
-well... [2-3] legal pads.
+[2-3] [color] colored spiral notebooks.
+[2-3] [color] colored composition notebooks.
+[2-3] legal pads.
 a hole puncher.
 a three hole puncher.
 a box of staples, it's [fullness].
@@ -616,7 +616,7 @@ a few sunflower seed shells.
 a bundle of assorted wires.
 a [color] colored plastic milk crate.
 a doorknob.
-well... [2-6] keys for a keyboard.
+[2-6] keys for a keyboard.
 some scattered wrappers.
 a length of rope.
 some [metal|plastic] pipes.
@@ -629,11 +629,11 @@ a twelve pack of bottled beer, there are [6-11] left.
 a twelve pack of canned beer, there are [6-11] left.
 a [color] zippo lighter, with [pattern] on it.
 a deck of playing cards, all of them are there.
-well... [1-3] cigars of high quality.
-well... [1-10] high quality cigarettes.
+[1-3] cigars of high quality.
+[1-10] high quality cigarettes.
 a [1-2] pint glass bottle of expensive [liquor].
 a fine quality flashlight meant for the outdoors. The battery is [fullness].
-well... [1-3] unused prepaid plan burner phones.
+[1-3] unused prepaid plan burner phones.
 a lockpick set. It lowers the difficulty of picking locks by 2.
 a [color] NBC suit.
 a gasmask of high quality.
@@ -653,8 +653,8 @@ an antitoxin kit meant for mundane poisonings. It has the supplies for [2-3] mor
 keys to someone's car.
 1 ounce of [drug] in a plastic baggie.
 a [heavy|light] pistol with no bullets left.
-well... [7-12] cans of soup.
-well... [1-6] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
+[7-12] cans of soup.
+[1-6] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
 a 50lb bag of fertilizer.
 a usable car battery.
 a half empty coil of barbed wire.
@@ -678,7 +678,7 @@ a full can of pepperspray.
 a [heavy|light] crossbow.
 a crossbow pistol.
 a [hunting|long|short] bow.
-well... [2-4] shurikens.
+[2-4] shurikens.
 a [hatchet|axe|tomahawk|greataxe].
 a [polearm] polearm.
 a stiletto.
@@ -709,9 +709,9 @@ a set of high quality Technocratic antiRD cuffs that have been modified to have 
 a [color] colored backpack that seems to be suspiciously spacious. It can fit three times how much you can lift, while consistently remaining at weighing twenty five pounds.
 an inflatable boat.
 a stylish Technocratic trenchcoat that doesn't do anything special, it just looks nice.
-well... [2-10] ounces of [drug] in a plastic baggie.
+[2-10] ounces of [drug] in a plastic baggie.
 a briefcase with [1000|5000|10000|15000|20000] dollars in large bills.
-well... [2-6] nondescript backpacks with [10000|20000] dollars in each of them.
+[2-6] nondescript backpacks with [10000|20000] dollars in each of them.
 a slim notebook laptop that's password locked.
 a pair of night vision goggles.
 a cellphone that's password locked.
@@ -721,7 +721,7 @@ a brick of cocaine.
 a [heavy|light] pistol that's fully loaded.
 a [gun] with [1-2] bullets that seem to possibly be explosive rounds.
 a key, title, and bill of sale for a luxury car tucked neatly into an envelope. The paperwork is blank.
-well... [7-12] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
+[7-12] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
 a fake fish mounted on wood that sings and flops in a tortured manner when touched.
 a pipe bomb.
 an old gameboy.
