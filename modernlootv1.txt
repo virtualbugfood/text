@@ -3,7 +3,6 @@ $author : Thursday
 $description : What did you find, what did you find...
 $picture : https://i.imgur.com/cODMvui.png
 $button : Loot Check!
-
 $size
 minuscule {0.1%}
 small
@@ -12,7 +11,6 @@ average
 large
 big
 giant {0.1%}
-
 $wood
 particle board {50%}
 [color] particle board
@@ -61,7 +59,6 @@ atlantic white cedar wood
 african padauk wood
 brazillian cherry jatoba  wood
 tarara canarywood
-
 $color
 advent purple
 agreeable grey
@@ -209,7 +206,6 @@ walnut brown
 wood brown
 wine red
 yellow green
-
 $shapes
 dinosaur
 cat
@@ -226,7 +222,6 @@ diamond
 rectangle
 oval
 triangle
-
 $drug
 cocaine
 crack cocaine
@@ -237,7 +232,6 @@ prescription drugs
 opioids
 amphetamines
 barbiturates
-
 $liquor
 gin
 vodka
@@ -246,7 +240,6 @@ tequila
 rum
 brandy
 amaretto
-
 $wine
 bordeaux wine
 chianti wine
@@ -266,7 +259,6 @@ mead
 marsala
 sherry macvin
 port wine
-
 $toys
 model dinosaur
 model car
@@ -292,7 +284,6 @@ rubber bear
 rubber snake
 plastic snake
 crayon
-
 $flavor
 vanilla
 dark chocolate
@@ -307,7 +298,6 @@ pumpkin
 cinnamon
 spice
 molasses 
-
 $candy
 abba-zabba
 airheads
@@ -331,7 +321,6 @@ smarties
 starbursts
 tootsie rolls
 york peppermint patties
-
 $odd things
 teeth
 razor blades
@@ -349,7 +338,6 @@ dead larvae
 live beetles 
 live ants
 live larvae
-
 $nuts
 macadamia nuts
 hazelnuts
@@ -359,7 +347,6 @@ acorns
 almonds
 cashews
 peanuts
-
 $modifier
 it's a little dusty
 it's covered in a slight amount of [color]-colored slime
@@ -373,7 +360,6 @@ it's soft to the touch
 it's hard to the touch
 there's a thin layer of [color] film on it
 it's two toned with [color] and [color]
-
 $deskfish
 mickey mouse platy
 red wagtail platy
@@ -406,7 +392,6 @@ black phantom tetra
 black ruby barb
 shrimp
 urchins
-
 $deskplant
 air plant
 mini succulent
@@ -424,7 +409,6 @@ peace lily
 aloe plant
 lavender 
 fern
-
 $fullness
 pretty much empty
 almost empty
@@ -435,7 +419,6 @@ about halfway full
 about three-quarters full
 almost full
 full
-
 $paper
 printer {50%}
 three hole punched
@@ -447,7 +430,6 @@ heavy duty card stock
 [color] [shapes]-patterned wrapping
 letterhead
 [color] construction
-
 $tape
 barricade {5%}
 cellophane {50%}
@@ -459,14 +441,12 @@ filament
 packaging {20%}
 [color] [shapes]-patterned washi
 [color] washi
-
 $gun
 [pocket|light|heavy] revolver
 [pocket|light|heavy|tactical] revolver
 [pocket|compact|light|heavy|tactical] smg
 [breakaction|sawnoff|pumpaction|semiauto|fullauto] shotgun
 [carbine|assault|battle|hunting|sniper] rifle
-
 $polearm
 ahlspeiss
 bardiche
@@ -484,7 +464,6 @@ pike
 poleaxe
 scythe
 voulge
-
 $knife
 drop point knife
 tanto knife
@@ -512,7 +491,6 @@ boning knife
 chef's knife
 santoku knife
 bread knife
-
 $common
 a twelve pack of bottled beer, there are [2-5] left.
 a twelve pack of canned beer, there are [2-5] left.
@@ -626,7 +604,6 @@ some [metal|plastic] pipes.
 a neat rock.
 some empty syringes.
 an empty plastic bag from the [corner store|supermarket|grocery store].
-
 $uncommon
 a twelve pack of bottled beer, there are [6-11] left.
 a twelve pack of canned beer, there are [6-11] left.
@@ -700,7 +677,6 @@ a tin of loose leaf tobacco.
 an illegible prescription written on yellowed paper.
 a prescription for a [laxative|painkiller|antipsychotic] written on ink-spotted paper.
 a length of gnarled driftwood.
-
 $rare
 a complete cutting edge electronic lockpicker. It lowers the difficulty of picking locks by 4.
 a grappling hook.
@@ -757,7 +733,6 @@ a cast iron pan.
 a set of half-used [oil|acrylic|water] paints.
 a tube of [color] colored [oil|acrylic|water] paint.
 a jar of seawater.
-
 $epic
 an old heavy duty Technocratic laptop. There's probably a 1 in 10 chance this thing even still has life in it, what could the password be?
 a ceramic pig with chipped baby blue paint, the [2-4] coins on the inside have a layer of salt coating them. Spirits and supernatural creatures aligned with the sea seem to value these coins greatly.
@@ -769,12 +744,10 @@ a can of UltraMeat™. One serving of UltraMeat™ is worth a week of rations, a
 a VHS copy of Disney's BAMBI copied over with a snuff film. Considering the grainy quality it's probably third-generation, filmed sometime in the early 1990s.
 a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. However, an explosives expert examining the vest will discover that the explosives are shaped charges, and the force of all is directed inwards rather than outwards. The remote detonator is next to it.
 a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
-
 $percentile
 [common] {65%}
 [uncommon] {20%}
 [rare] {14%}
 [epic] {1%}
-
 $cookie
 <p>Well you look around and find...</p><p>[percentile]</p><br><br>
