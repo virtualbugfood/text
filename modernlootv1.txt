@@ -779,7 +779,7 @@ $percentile
 [epic] {1%}
 
 $overall
-You find [percentile].
+You find [percentile]
  
 $cookie
 <p>Well you look around and...</p><p>[overall]</p><br><br>
