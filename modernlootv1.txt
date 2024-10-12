@@ -767,11 +767,11 @@ a VHS copy of Disney's BAMBI copied over with a snuff film. Considering the grai
 a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. However, an explosives expert examining the vest will discover that the explosives are shaped charges, and the force of all is directed inwards rather than outwards. The remote detonator is next to it.
 a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
 
-$percentile
+$loot
 [common] {65%}
 [uncommon] {20%}
 [rare] {14%}
 [epic] {1%}
 
 $cookie
-<p>Well you look around and find... [percentile]</p><br><br>
+<p>Well you look around and find... [loot]</p><br><br>
