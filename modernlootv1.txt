@@ -687,7 +687,7 @@ a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. How
 a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
  
 $overall
-You find [[common]|[common]|[common]|[common]|[common]|[uncommon]|[uncommon]|[uncommon]|[rare]|[rare]|[epic]]
+You find [[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[rare]|[rare]|[rare]|[epic]]
  
 $cookie
 <p>Here's what you find...</p><p>[overall]</p><br><br>
