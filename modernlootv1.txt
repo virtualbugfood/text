@@ -775,7 +775,7 @@ $percentile
 [common] {60%}
 [uncommon] {20%}
 [rare] {14%}
-[nothing] {5%}
+nothing. {5%}
 [epic] {1%}
 
 $overall
