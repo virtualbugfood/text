@@ -774,4 +774,4 @@ $loot
 [epic] {1%}
 
 $cookie
-<p>Well you look around and find... [loot] </p><br><br>
+<p>Well you look around and find...</p><p>[loot]</p><br><br>
