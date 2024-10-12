@@ -775,9 +775,6 @@ $percentile
 [uncommon] {20%}
 [rare] {14%}
 [epic] {1%}
-
-$overall
-You find [percentile]
  
 $cookie
-<p>Well you look around and...</p><p>[overall]</p><br><br>
+<p>Well you look around and find...</p><p>[percentile]</p><br><br>
