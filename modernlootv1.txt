@@ -1,7 +1,7 @@
 $name : Modern Loot Generator
 $author : Thursday
 $description : What did you find, what did you find...
-$picture : https://i.imgur.com/Q0KROrX.png
+$picture : https://i.imgur.com/cODMvui.png
 $button : Loot Check!
  
 $size
@@ -226,7 +226,47 @@ diamond
 rectangle
 oval
 triangle
- 
+
+$drug
+cocaine
+crack cocaine
+heroin
+meth
+ecstasy
+prescription drugs
+opioids
+amphetamines
+barbiturates
+
+$liquor
+gin
+vodka
+whiskey
+tequila
+rum
+brandy
+amaretto
+
+$wine
+bordeaux wine
+chianti wine
+rioja wine
+syrah wine
+primitivo wine
+beaujolais wine
+pinot grigio
+sauvignon blanc
+riesling
+chardonnay
+champagne
+prosecco
+vin doux naturels
+vermouth
+mead
+marsala
+sherry macvin
+port wine
+
 $toys
 model dinosaur
 model car
@@ -394,7 +434,6 @@ halfway full
 about halfway full
 about three-quarters full
 almost full
-filled to the brim
 full
  
 $paper
@@ -569,6 +608,24 @@ a trashcan lid.
 a baseball bat.
 a broken plastic [color] colored usb thumbdrive.
 a few spent bullets.
+a broken lightbulb.
+a dirty sponge.
+a box of children's crayons from a restaurant.
+a pair of [color] colored [women's|men's] underwear.
+a shiv.
+a used bandaid.
+a book of matches, it's [fullness].
+a few sunflower seed shells.
+a bundle of assorted wires.
+a [color] colored plastic milk crate.
+a doorknob.
+[2-6] keys for a keyboard.
+some scattered wrappers.
+a length of rope.
+some [metal|plastic] pipes.
+a neat rock.
+some empty syringes.
+an empty plastic bag from the [corner store|supermarket|grocery store].
  
 $uncommon
 a twelve pack of bottled beer, there are [6-11] left.
@@ -636,6 +693,14 @@ an unopened box of [unpowdered|powdered] latex gloves.
 a pair of binoculars.
 an unused plastic [color] colored usb thumbdrive.
 a box of bullets meant for a [gun].
+a pack of white chalk, it's [fullness].
+a pack of [color] colored chalk, it's [fullness].
+a pack of [color] colored [tealight|wood wick|soy|taper|pillar|votive] candles, there are [2-6] left.
+a [size] cooking pan.
+a tin of loose leaf tobacco.
+an illegible prescription written on yellowed paper.
+a prescription for a [laxative|painkiller|antipsychotic] written on ink-spotted paper.
+a length of gnarled driftwood.
  
 $rare
 a complete cutting edge electronic lockpicker. It lowers the difficulty of picking locks by 4.
@@ -673,7 +738,27 @@ a small pencilcase sized sturdy glass biocontainer holding a [deskplant].
 a colorful bag with the text "Happy Birthday!" splashed across in big [color] colored letters. Inside is [common].
 a police scanner.
 a 1 pint container of piranha solution.
- 
+an expensive bottle of [wine].
+a magic 8 ball.
+a little animal carved from [wood].
+a taser, [modifier].
+a full can of pepperspray, [modifier].
+a [heavy|light] crossbow, [modifier].
+a [hatchet|axe|tomahawk|greataxe], [modifier].
+a [polearm] polearm, [modifier].
+a stiletto, [modifier].
+a [knife], [modifier].
+a crowbar, [modifier].
+a skein of [color] colored yarn.
+a scalpel.
+a pair of forceps.
+well, supposedly it's supposed to be an adult magazine, but it's all pictures of tropical fish.
+a sprouted [potato|onion].
+a cast iron pan.
+a set of half-used [oil|acrylic|water] paints.
+a tube of [color] colored [oil|acrylic|water] paint.
+a jar of seawater.
+
 $epic
 an old heavy duty Technocratic laptop. There's probably a 1 in 10 chance this thing even still has life in it, what could the password be?
 a ceramic pig with chipped baby blue paint, the [2-4] coins on the inside have a layer of salt coating them. Spirits and supernatural creatures aligned with the sea seem to value these coins greatly.
@@ -685,9 +770,16 @@ a can of UltraMeat™. One serving of UltraMeat™ is worth a week of rations, a
 a VHS copy of Disney's BAMBI copied over with a snuff film. Considering the grainy quality it's probably third-generation, filmed sometime in the early 1990s.
 a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. However, an explosives expert examining the vest will discover that the explosives are shaped charges, and the force of all is directed inwards rather than outwards. The remote detonator is next to it.
 a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
- 
+
+$percentile
+[common] {60%}
+[uncommon] {20%}
+[rare] {14%}
+[nothing] {5%}
+[epic] {1%}
+
 $overall
-You find [[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[common]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[uncommon]|[rare]|[rare]|[rare]|[epic]]
+You find [percentile].
  
 $cookie
-<p>Here's what you find...</p><p>[overall]</p><br><br>
+<p>Well you look around and...</p><p>[overall]</p><br><br>
