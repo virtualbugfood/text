@@ -768,10 +768,7 @@ a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. How
 a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
 
 $loot
-[common] {65%}
-[uncommon] {20%}
-[rare] {14%}
-[epic] {1%}
+[common]
 
 $cookie
 <p>Well you look around and find... [loot]</p><br><br>
