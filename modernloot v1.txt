@@ -1,0 +1,693 @@
+$name : Modern Loot Generator
+$author : Thursday
+$description : What did you find, what did you find...
+$picture : https://i.imgur.com/Q0KROrX.png
+$button : Loot Check!
+ 
+$size
+minuscule {0.1%}
+small
+medium
+average
+large
+big
+giant {0.1%}
+ 
+$wood
+particle board {50%}
+[color] particle board
+red oak wood
+white oak wood
+cherry wood
+hard maple wood
+alder wood
+hickory wood
+poplar wood
+walnut wood
+russian olive wood
+basswood
+ash wood
+beech wood
+birch wood
+elm wood
+sycamore wood
+soft maple wood
+willow wood
+mesquite wood
+butternut white walnut wood
+redwood wood
+chestnut wood
+sweet gum wood
+alaskan white cedar wood
+cypress wood
+white pine wood
+yellow pine wood
+spanish cedar wood
+sugar pine wood
+sassafras wood
+cedar wood
+western red cedar wood
+douglas fir wood
+hackberry wood
+osage orange wood
+holly wood
+sapele wood
+shedua wood
+teak wood
+spalted maple wood
+afromosia wood
+african mahogany wood
+atlantic white cedar wood
+african padauk wood
+brazillian cherry jatoba  wood
+tarara canarywood
+ 
+$color
+advent purple
+agreeable grey
+aluminum grey
+amaranth
+amber
+amber brown
+amethyst
+antique grey
+apricot
+army brown
+army green 
+ash grey
+asphalt grey
+aqua blue
+aqua green
+baby blue
+baby pink 
+baby yellow
+banana yellow
+bisque
+blood red
+true blue
+bone
+birch
+brass
+bright red
+brick red
+bright green
+bright navy
+bright orange
+bright pink
+bubblegum pink
+bright blue
+bright yellow
+bright purple
+burlap brown 
+burnt orange
+camel
+carolina blue
+caramel
+carnation pink
+celadon
+cetacean blue
+cerise
+champagne pink
+coffee brown
+chambray blue
+chartreuse
+cherry blossom pink
+cherry red
+chocolate brown
+chrome 
+christmas red
+cloud burst blue
+cobalt blue
+columbia green
+comic book red
+concrete
+copper
+coyote brown
+cream
+crimson 
+cement grey
+charcoal grey
+cool grey
+corn green
+canary yellow
+classic purple
+clay
+cocoa brown
+comic book yellow
+construction orange
+coral pink
+cotton candy pink
+cyan
+christmas green
+cornflower blue
+dark blue
+dark orange
+dark red
+dark sand brown
+dark brown
+dark grey
+dark chocolate brown
+dark grey
+dark steel grey
+dazzling blue
+denim blue
+dorian grey
+dusty rose pink
+dark purple
+dark green
+emerald green
+electric blue
+fire truck red
+flamingo pink
+french blue
+french grey
+forest green
+golden yellow
+goldfish orange
+halloween orange
+hunter green
+highlighter pink
+indigo blue
+jade green
+legal pad yellow
+lavender 
+lilac
+magenta 
+mauve
+midnight blue
+midnight purple
+mint green
+mulberry
+mustard yellow
+navy blue
+oatmeal
+olive green
+oxford brown
+pine green
+pacific blue
+pastel green
+pastel blue
+pastel pink
+pastel red
+pastel orange
+pastel yellow
+pastel purple
+pastel grey
+powder blue
+periwinkle
+platinum
+scarlet red
+salmon pink
+spearmint
+taxi cab yellow
+timberwolf grey
+terracotta
+vermillion
+varsity red
+warm grey
+walnut brown
+wood brown
+wine red
+yellow green
+ 
+$shapes
+dinosaur
+cat
+dog
+mouse
+rat
+star
+cube
+sphere
+circle
+square
+rhombus
+diamond
+rectangle
+oval
+triangle
+ 
+$toys
+model dinosaur
+model car
+model train
+model plane
+kazoo
+playing cards
+sticky hand
+marble
+bouncy ball
+yo-yo
+worm
+plastic spider
+plastic fish
+[size] stuffed cat
+[size] stuffed dog
+[size] stuffed elephant
+[size] stuffed bear
+plastic cat
+plastic dog
+plastic bear
+rubber bear
+rubber snake
+plastic snake
+crayon
+ 
+$flavor
+vanilla
+dark chocolate
+chocolate
+cream
+strawberry
+black forest
+carrot
+chocolate chip
+chocolate chunk
+pumpkin 
+cinnamon
+spice
+molasses 
+ 
+$candy
+abba-zabba
+airheads
+andes mint
+bazooka gum
+bit-o-honey
+blow pops
+cadbury eggs
+candy corn
+circus peanuts
+cow tales
+dum dum pops
+goo goo clusters
+herhey's kisses
+jelly beans
+laffy taffy
+lifesavers
+reeses
+rolos
+smarties
+starbursts
+tootsie rolls
+york peppermint patties
+ 
+$odd things
+teeth
+razor blades
+copper wire
+dark hair
+light hair
+[color] hair
+dried blood flakes
+hair follicles 
+black viscous fluid 
+dead beetles
+dead ants
+bullets {1%}
+dead larvae
+live beetles 
+live ants
+live larvae
+ 
+$nuts
+macadamia nuts
+hazelnuts
+walnuts
+pecans
+acorns
+almonds
+cashews
+peanuts
+ 
+$modifier
+it's a little dusty
+it's covered in a slight amount of [color]-colored slime
+it feels heavier than what it should
+it feels lighter than what it should
+it's warm to the touch
+it's cold to the touch
+it's been dipped in [color] colored fluid
+it has an interesting [color] colored pattern on it 
+it's soft to the touch
+it's hard to the touch
+there's a thin layer of [color] film on it
+it's two toned with [color] and [color]
+ 
+$deskfish
+mickey mouse platy
+red wagtail platy
+wagtail platy
+golden moon platy
+guppies
+zebra danio
+dwarf danio
+spotted danio
+neon tetra
+white cloud mountain minnows
+red rasbora
+harlequin rasbora
+serpae tetra
+jewel tetra
+panda corydora
+glowlight tetra
+peapuffers
+tiger barbs
+swordtails
+ram chiclids
+buenos aires tetra
+dwarf gourami
+gold barbs
+bettas
+hatchet fish
+congo tetra
+beacon fish
+black phantom tetra
+black ruby barb
+shrimp
+urchins
+ 
+$deskplant
+air plant
+mini succulent
+artificial succulent
+bamboo arrangement
+potted pen stand
+golden devil's ivy
+[color] colored orchids
+venus fly trap
+ecosphere
+[shapes] bonsai
+spider plant
+philodendron
+peace lily
+aloe plant
+lavender 
+fern
+ 
+$fullness
+pretty much empty
+almost empty
+nearly barren
+a quarter of the way full
+halfway full
+about halfway full
+about three-quarters full
+almost full
+filled to the brim
+full
+ 
+$paper
+printer {50%}
+three hole punched
+graph
+tracing
+[color] color card stock
+heavy duty card stock
+[color] wrapping
+[color] [shapes]-patterned wrapping
+letterhead
+[color] construction
+ 
+$tape
+barricade {5%}
+cellophane {50%}
+decorative
+double-sided
+duct
+electrical
+filament
+packaging {20%}
+[color] [shapes]-patterned washi
+[color] washi
+ 
+$gun
+[pocket|light|heavy] revolver
+[pocket|light|heavy|tactical] revolver
+[pocket|compact|light|heavy|tactical] smg
+[breakaction|sawnoff|pumpaction|semiauto|fullauto] shotgun
+[carbine|assault|battle|hunting|sniper] rifle
+ 
+$polearm
+ahlspeiss
+bardiche
+bec de corbin
+bill hook
+boar spear
+corseque
+fauchard
+glaive
+guisarme
+halberd
+lucerne hammer
+partisan
+pike
+poleaxe
+scythe
+voulge
+ 
+$knife
+drop point knife
+tanto knife
+reverse tanto knife
+clip point knife
+assist blade
+bowie knife
+coping blade
+dagger
+needle point knife
+s-curve knife
+pen blade
+sheepfoot knife
+spev point knife
+wharncliffe knife
+switchblade
+butterfly knife
+utility knife
+steak knife
+carving knife
+carving fork
+cleaver
+paring knife
+boning knife
+chef's knife
+santoku knife
+bread knife
+ 
+$common
+a twelve pack of bottled beer, there are [2-5] left.
+a twelve pack of canned beer, there are [2-5] left.
+a cheap [color] plastic lighter.
+a [color] zippo lighter.
+a deck of playing cards, there are a few missing.
+[1-3] cheap cigars.
+[1-10] cheap cigarettes.
+a [1-2] pint plastic bottle of inexpensive [liquor].
+a used respirator with [used|no] filters.
+a disposable camera with no pictures left to take.
+a disposable camera that can still take [3-10] photos.
+an unused disposable camera.
+a fistful of change that amounts to [25-99] cents.
+a small stash of [50-300] dollars in it, mostly in [small|large] bills.
+[1-3] used toothbrushes that are [color] in color.
+[1-2] unused toothbrushes that are [color] in color, and a tube of [flavor] toothpaste.
+a [used|unused] [color] colored cheap plastic hairbrush.
+a [used|unused] [color] colored cheap plastic comb.
+a cheap [color] colored sleeping bag.
+a [color] colored [ipod nano|ipod shuffle|offbrand mp3 player].
+a cheap discarded plastic phonecase that's [color] in color.
+a set of cheap plastic [color] colored [earbuds|headphones].
+a set of low quality plastic handcuffs.
+a pair of cheap plastic sunglasses.
+a cheap children's backpack.
+a cheap backpack.
+a trashbag full of unreturned [soda|beer|energy drink|seltzer] cans.
+[1-6] cans of soup.
+a roll of duct tape.
+[1-3] cheap protein bars.
+a 50lb bag of cement.
+a [metal|[color] colored plastic] bucket.
+a plastic baggie with [1-10] zipties in it.
+[1-4] batteries that are [full charge|dead].
+a metal can of [color] colored paint.
+a dead car battery.
+empty prescription bottle with a faded label.
+a box of rivets.
+a large wrench.
+an empty suitcase.
+a cracked and dead cellphone.
+a few sets of plastic cutlery.
+a car tire.
+a giftcard for costco with [25-200] dollars left on it.
+a full can of [color] colored spraypaint.
+a rusted beartrap.
+some bones.
+a can of wd-40.
+a can of motor oil.
+an empty jerry can.
+an old broken radio.
+a bunch of old magazines.
+a bag of what looks like quality amethyst. It's really just stale grape rock candy.
+a box of spoiled chocolates.
+some old VHS tapes.
+a few broken [CDs|DVDs].
+a half empty first aid kit.
+a compass.
+a pile of glass shards.
+a [color] colored [shapes] paperweight.
+a jar of [candy], it's [size], and is [fullness].
+a jar of [nuts], it's [size], and is [fullness].
+a [toys], it's [color] colored.
+a [toys], [modifier].
+a few sheets of blank [paper] paper.
+scissors.
+[color] colored post-it notes.
+a roll of [tape] tape, it's [fullness].
+a box of [color] colored pens, it's [fullness].
+a box of [color] pencils, it's [fullness].
+a wooden ruler made of [wood] wood.
+a [color] colored plastic ruler.
+a box of postage stamps, it's [fullness].
+a envelop sealer.
+a letter opener.
+[2-3] [color] colored spiral notebooks.
+[2-3] [color] colored composition notebooks.
+[2-3] legal pads.
+a hole puncher.
+a three hole puncher.
+a box of staples, it's [fullness].
+a staple remover.
+a box cutter.
+a box of [size] paperclips, it's [fullness].
+a box of [size] [color] colored paperclips, it's [fullness].
+a magnifying glass.
+a pencil sharpener.
+box of [color] colored mechanical pencils, it's [fullness].
+a protractor.
+a t-square.
+a trashcan lid.
+a baseball bat.
+a broken plastic [color] colored usb thumbdrive.
+a few spent bullets.
+ 
+$uncommon
+a twelve pack of bottled beer, there are [6-11] left.
+a twelve pack of canned beer, there are [6-11] left.
+a [color] zippo lighter, with [pattern] on it.
+a deck of playing cards, all of them are there.
+[1-3] cigars of high quality.
+[1-10] high quality cigarettes.
+a [1-2] pint glass bottle of expensive [liquor].
+a heavy leather jacket, on the back a [color] [creature] is depicted [action].
+a fine quality flashlight meant for the outdoors. The battery is [fullness].
+[1-3] unused prepaid plan burner phones.
+a lockpick set. It lowers the difficulty of picking locks by 2.
+a [color] NBC suit.
+a gasmask of high quality.
+a full face respirator.
+a full sized [digital|VHS|mini DVD] camcorder.
+a money clip with [500-10000] dollars in it, mostly in large bills.
+an insulated [color] colored sleeping bag.
+a [1-2] man tent that's [color] colored.
+a set of high quality [metal|plastic] [color] colored headphones.
+a cassette recorder.
+a set of high quality police cuffs that have [color] colored fluff on the cuff part.
+a set of high quality metal police cuffs.
+a pair of expensive sunglasses.
+a high quality [color] colored backpack meant for [school|hiking|a laptop].
+a crash kit meant for mundane overdoses. It has the supplies for [2-4] more uses.
+an antitoxin kit meant for mundane poisonings. It has the supplies for [2-3] more uses.
+keys to someone's car.
+1 ounce of [drug] in a plastic baggie.
+a [heavy|light] pistol with no bullets left.
+[7-12] cans of soup.
+[1-6] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
+a 50lb bag of fertilizer.
+a usable car battery.
+a half empty coil of barbed wire.
+a pair of gardening shears.
+a pair of cable cutters.
+an abandoned dirtbike.
+a broken [modern|vintage] motorcycle.
+a human skull.
+a crate with [2-6] glass bottles of coca cola.
+a jerry can filled with gasoline.
+an old army helmet.
+a fully stocked first aid kit.
+a set of [2|4] walkie-talkies.
+a muffin basket, with [2-6] [flavor] muffins, a [color] coloredribbon is tied around the handle of the basket.
+a box of [candy], it's [size], and is [fullness].
+a box of [nuts], it's [size], and is [fullness].
+a box of [odd things], it's [size], and is [fullness].
+a small safe with a [digital keypad|fingerprint scanner|keyhole].
+a taser.
+a full can of pepperspray.
+a [heavy|light] crossbow.
+a crossbow pistol.
+a [hunting|long|short] bow.
+[2-4] shurikens.
+a [hatchet|axe|tomahawk|greataxe].
+a [polearm] polearm.
+a stiletto.
+a [knife].
+a baton.
+a crowbar.
+an unopened box of [unpowdered|powdered] latex gloves.
+a pair of binoculars.
+an unused plastic [color] colored usb thumbdrive.
+a box of bullets meant for a [gun].
+ 
+$rare
+a complete cutting edge electronic lockpicker. It lowers the difficulty of picking locks by 4.
+a grappling hook.
+a [color] NBC suit with a gasmask of high quality.
+a [3-4] man tent that's [color] colored.
+a suitcase lab meant for [biological analysis|meteorology|geology|chemical analysis|forensic analysis|making explosives|general chemistry|general biology]. It grants [1-3] dice to your dicepool when completing a task pertaining to that subject.
+a set of high quality Technocratic antiRD cuffs. They increase the difficulty of arete rolls by 2.
+a set of high quality Technocratic antiRD cuffs that have been modified to have [color] colored fluff on them. They increase the difficulty of arete rolls by 2.
+a [color] colored backpack that seems to be suspiciously spacious. It can fit three times how much you can lift, while consistently remaining at weighing twenty five pounds.
+an inflatable boat.
+a stylish Technocratic trenchcoat that doesn't do anything special, it just looks nice.
+[2-10] ounces of [drug] in a plastic baggie.
+a briefcase with [1000|5000|10000|15000|20000] dollars in large bills.
+[2-6] nondescript backpacks with [10000|20000] dollars in each of them.
+a slim notebook laptop that's password locked.
+a pair of night vision goggles.
+a cellphone that's password locked.
+a pound of weed.
+a geiger counter.
+a brick of cocaine.
+a [heavy|light] pistol that's fully loaded.
+a [gun] with [1-2] bullets that seem to possibly be explosive rounds.
+a key, title, and bill of sale for a luxury car tucked neatly into an envelope. The paperwork is blank.
+[7-12] [American|Italian|Russian|French|British|Chinese|Japanese|Korean|Canadian|Mexican|German] MRE Rations.
+a fake fish mounted on wood that sings and flops in a tortured manner when touched.
+a pipe bomb.
+an old gameboy.
+an airtight titanium, 10-percent primium lined briefcase.
+a jar of [odd things], it's [size], and is [fullness].
+a kevlar vest.
+a flak vest.
+a small pencilcase sized sturdy glass biocontainer holding [3-7] [deskfish].
+a small pencilcase sized sturdy glass biocontainer holding a [deskplant].
+a colorful bag with the text "Happy Birthday!" splashed across in big [color] colored letters. Inside is [common].
+a police scanner.
+a 1 pint container of piranha solution.
+ 
+$epic
+an old heavy duty Technocratic laptop. There's probably a 1 in 10 chance this thing even still has life in it, what could the password be?
+a ceramic pig with chipped baby blue paint, the [2-4] coins on the inside have a layer of salt coating them. Spirits and supernatural creatures aligned with the sea seem to value these coins greatly.
+a crate with [2-4] vintage glass bottles of Stay Awake. By now, these should be expired but they look fine. They give three extra actions to the drinker on their turn. Time seems to slow down for the drinker, yet from their perspective they're moving at their normal pace... This can't be healthy.
+a largish tangle of twitching metal parts and wheels. It hums happy birthday once when touched then permanently powers down. It grants one wish, the wish must be thought in the head and thought as the machinery hums.
+a strange syringe filled with glowing cyan fluid. It's labeled with a bright blue sticker with white text that says "CURE" on it. When injected, cure all health boxes, fatal wounds, scars, positive and negative physical mutations. Your skin is baby soft. If completely healthy when it's taken, your flesh begins to slough as you take 10 aggravated damage from becoming a mass of undifferentiated cells.
+a strange little chemical vial of little mite sized nanites. When exposed to air they will invade the nearest living lifeform, who immediately takes 5 lethal damage as the brutishly efficient robots travel through the body. Decreases Strength by 3 dots and increases Intelligence by 2 dots (to a maximum of 8). If Strength is lowered past zero, the being perishes. If they manage to live, and are unawakened/unenlightened, they will awaken/enlighten with the nanites as their Avatar/Genius.
+a can of UltraMeat™. One serving of UltraMeat™ is worth a week of rations, and will leave you satisfied and unhungry during that time period. It's not just meat, it's UltraMeat™!
+a VHS copy of Disney's BAMBI copied over with a snuff film. Considering the grainy quality it's probably third-generation, filmed sometime in the early 1990s.
+a chest rig of wiring, straps, and explosives, quite plainly a suicide vest. However, an explosives expert examining the vest will discover that the explosives are shaped charges, and the force of all is directed inwards rather than outwards. The remote detonator is next to it.
+a glass vial with a plastic lid, containing a viscous green substance. An old label bears Russian Cyrillic letters. Below, a new label reads: "SIC SEMPER TYRANIS - WARNING ! Volatile//Neurotoxic".
+ 
+$overall
+You find [[common]|[common]|[common]|[common]|[common]|[uncommon]|[uncommon]|[uncommon]|[rare]|[rare]|[epic]]
+ 
+$cookie
+<p>Here's what you find...</p><p>[overall]</p><br><br>
